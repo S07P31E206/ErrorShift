@@ -62,7 +62,7 @@ hotfix/[version] : 배포한 것을 급하게 수정
 
 - 브랜치 흐름 예시
     
-    ![%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A6%E1%86%AB%E1%84%89%E1%85%A7%E1%86%AB%207723450c01d04d12b1f7dc535181a562/Untitled.png](%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A6%E1%86%AB%E1%84%89%E1%85%A7%E1%86%AB%207723450c01d04d12b1f7dc535181a562/Untitled.png)
+    ![./assets/Untitled.png](Untitled.png)
     
 
 ```markdown
