@@ -1,33 +1,5 @@
 # 컨벤션
 
-# Jira
-
-### EPIC
-
-FE_머시기
-
-BE_머시기
-
-배포
-
-회의
-
-기획
-
-설계
-
-산출물
-
-학습
-
-### 이슈 prefix
-
-[epic이름]
-
-### 이슈 suffix
-
-(이름)
-
 # Git commit
 
 [feat] 새로운 기능 추가
@@ -61,9 +33,7 @@ release/[version] : 배포 전, 현재까지의 develop 상태를 가져와서 �
 hotfix/[version] : 배포한 것을 급하게 수정
 
 - 브랜치 흐름 예시
-    
-    ![./assets/Untitled.png](Untitled.png)
-    
+
 
 ```markdown
 |-- master
@@ -81,8 +51,6 @@ hotfix/[version] : 배포한 것을 급하게 수정
 ```
 
 # 코딩
-
-백엔드
 
 - 파일명: PascalCase (ex: UserRepository)
 - 패키지명: 소문자
